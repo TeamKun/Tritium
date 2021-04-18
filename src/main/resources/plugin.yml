@@ -1,0 +1,4 @@
+name: Tritium
+version: ${project.version}
+main: net.kunmc.lab.tritium.Tritium
+api-version: 1.16
